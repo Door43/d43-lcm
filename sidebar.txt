@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lcm:home|Door43 (lcm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lcm|d43-lcm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lcm/archive/master.zip|d43-lcm.zip]]
+
+**Recent Changes**
+{{changes>ns = lcm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lcm|Ethnologue data]]
+
